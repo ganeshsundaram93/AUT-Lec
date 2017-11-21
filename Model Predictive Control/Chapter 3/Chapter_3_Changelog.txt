@@ -1,0 +1,4 @@
+09.01.2017
+==========
+
+3-32 "The interior point methods is based on ..." changed
