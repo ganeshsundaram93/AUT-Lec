@@ -1,0 +1,58 @@
+[Common]
+Classes=3
+StdClass=2
+ROIs=1
+Items=11
+DoubleSelection=0
+[Class1]
+Name=50 cent
+Description=
+[Class2]
+Name=5 cent
+Description=
+[Class3]
+Name=2 euro
+Description=
+[ROI0]
+Name=(gesamtes Bild)
+Description=(gesamtes Bild)
+X=-1
+Y=-1
+dX=-1
+dY=-1
+Z=-1
+1=1
+2=1
+3=2
+4=2
+5=2
+6=1
+7=3
+8=3
+9=3
+10=3
+11=3
+[Items]
+1=.\Picture\multi coin\multi0.bmp
+2=.\Picture\multi coin\multi1.bmp
+3=.\Picture\multi coin\multi10.bmp
+4=.\Picture\multi coin\multi13.bmp
+5=.\Picture\multi coin\multi14.bmp
+6=.\Picture\multi coin\multi2.bmp
+7=.\Picture\multi coin\multi4.bmp
+8=.\Picture\multi coin\multi5.bmp
+9=.\Picture\multi coin\multi6.bmp
+10=.\Picture\multi coin\multi7.bmp
+11=.\Picture\multi coin\multi8.bmp
+[ItemDescr]
+1=multi0.bmp
+2=multi1.bmp
+3=multi10.bmp
+4=multi13.bmp
+5=multi14.bmp
+6=multi2.bmp
+7=multi4.bmp
+8=multi5.bmp
+9=multi6.bmp
+10=multi7.bmp
+11=multi8.bmp
